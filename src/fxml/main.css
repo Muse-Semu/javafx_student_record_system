@@ -1,0 +1,100 @@
+
+
+.addStLabel{
+	-fx-background-color:rgba(255,255,255,0.1);
+	
+}
+
+.closeBtn:hover{
+	-fx-background-color:rgba(255,255,255,0.2);
+	-fx-text-fill: red;
+	
+	
+}
+.closeBtn{
+	-fx-background-color: rgba(255,255,255,0.1);
+	
+	
+}
+.addBtn{
+	-fx-background-color:#576fe8;
+	-fx-fill:white;
+}
+
+.addBtn:hover{
+	-fx-background-color:blue;
+}
+.clearAllBtn:hover{
+	-fx-background-color:red;
+	
+}
+.clearAllBtn{
+	-fx-background-color:#ff5532;
+}
+
+.logoutBtn{
+	-fx-background-color:  rgba(255,199,235,0.5);
+}
+.logoutBtn:hover{
+	-fx-background-color:rgba(255,199,235,0.7);
+}
+.buttons{
+	-fx-cursor:hand ;
+	-fx-border-color:none;
+	-fx-background-color:rgba(255,199,235,0.1);
+	
+	
+	
+}
+.buttons:hover{
+	
+	-fx-text-fill:#ffffff;
+	-fx-background-color:rgba(255,199,235,0.2);
+	
+}
+.adminSideBar{
+		-fx-background-color: linear-gradient(to bottom right , #272b3f,#256b51);
+			-fx-background-image: url("./suset.jpg") ;
+		
+	
+}
+.adminMainBoard{
+	
+	-fx-border-radius: 6;
+	-fx-background-radius: 6;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.5),9,0,0,0) ;
+}
+
+.dashboardTopMenu{
+	-fx-border-radius: 6;
+	-fx-background-radius: 6;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.5),9,0,0,0) ;
+	-fx-background-color:  rgba(255,255,255,0.1);
+	-fx-cursor: hand;
+	
+}
+
+.dashboardTopMenu:hover{
+	-fx-background-color: rgba(255,255,255,0.2);
+	 
+}
+
+
+.editBtn:hover{
+	-fx-background-color: #057541;
+	-fx-opacity: 1;
+}
+
+.partLogin{
+	-fx-background-image: url("./roman.jpg") ;
+}
+
+.centerPane{
+	-fx-background-image: url("./roman.jpg") ;
+}
+
+
+
+
+
+

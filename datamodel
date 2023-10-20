@@ -1,0 +1,28 @@
+data model for student record managment,
+
+table STUDENT
+    userId (int auto increment),
+	username(string ),
+	firstname(string),
+	lastname(string),
+	phone(string),
+	email(string),
+	password(string),
+	age(int),
+	registered_on(Date),
+	status(string),
+	
+
+table DEPARTMENT
+	dId(int auto increment)	
+	dname(string),
+	dCapacity(int),
+	registered_on(Date),
+	
+	
+	
+	
+	
+	      
+	
+	
